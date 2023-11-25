@@ -12,3 +12,6 @@ of a 5th order polynomial.
 1. find_target.py - implements first genetic algortihm to find target number within a given range
 2. polynomial_parameters.py - implements second genetic algortihm to optimise a set of parameters for polynomial curve
 
+## Author 
+
+Louis Chapo-Saunders
