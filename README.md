@@ -1,12 +1,11 @@
 # Genetic Algorithms
-Code to implement two genetic algortihms for different tasks
 
 ## Overview
 
-This project focuses on two genetic algorithms: the first algorithm  
-is used to find a target number within a set range of values and the 
-second is used to optimise a set of parameters for the curve of a 5th 
-order polynomial
+This project focuses on implementing two genetic algorithms for two different 
+tasks. The first algorithm  is used to find a target number within a set range 
+of values and the second is used to optimise a set of parameters for the curve 
+of a 5th order polynomial. 
 
 ## Project Structure 
 
