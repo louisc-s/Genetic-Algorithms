@@ -10,6 +10,6 @@ order polynomial
 
 ## Project Structure 
 
-1. FindTarget.py - implements first genetic algortihm to find target number within a given range
-2. PolynomialParameters.py - implements second genetic algortihm to optimise a set of parameters for polynomial curve
+1. find_target.py - implements first genetic algortihm to find target number within a given range
+2. polynomial_parameters.py - implements second genetic algortihm to optimise a set of parameters for polynomial curve
 
