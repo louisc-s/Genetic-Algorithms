@@ -1,5 +1,5 @@
 # Genetic Algorithms
-Code implemented to implement and evaluate genetic algortihms 
+Code to implement two genetic algortihms for different tasks
 
 ## Overview
 
