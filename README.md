@@ -1,5 +1,5 @@
 # Genetic Algorithms
-Code to implement genetic algorithms 
+Code to implement genetic algorithms for polynomial parameter optimisation
 
 ## Overview
 
